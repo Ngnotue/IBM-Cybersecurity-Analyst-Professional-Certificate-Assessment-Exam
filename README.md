@@ -1,6 +1,6 @@
 # IBM-Cybersecurity-Analyst-Professional-Certificate-Assessment-Exam
 
-Question 1
+## Question 1
 Select the answer the fills in the blanks in the correct order.
 A weakness in a system is a/an ____. The potential danger associated with this is a/an ____ that becomes a/an ____ when attacked by a bad actor. 
 1 point
@@ -13,7 +13,7 @@ threat, exposure, risk
  
 threat actor, vulnerability, exposure
 2.
-Question 2
+## Question 2
 Putting locks on a door is an example of which type of control?
 1 point
  
@@ -25,7 +25,7 @@ Deterrent
  
 Corrective
 3.
-Question 3
+## Question 3
 The potential for an employee to accidently disclose confidential information is considered what?
 1 point
  
